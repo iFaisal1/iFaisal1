@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iFaisal1&label=Profile%20views&color=737cbb&style=flat-square" alt="ifaisal1" /> </p>
 👋 Hi, I'm Faisal Al Mutairi .
 
 <p align="center"> <a href="https://twitter.com/_21fl" target="blank"><img src="https://img.shields.io/twitter/follow/_21fl?logo=twitter&style=for-the-badge"/></a> </p>
