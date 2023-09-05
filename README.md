@@ -3,11 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/_21fl" target="blank"><img src="https://img.shields.io/twitter/follow/_21fl?logo=twitter&style=for-the-badge"/></a> </p>
 
-- I'm interested in mobile app development, and management.
 
-- With a passion for technology and innovation, I've been programming since 2014, starting with Java.
+- I've been programming since 2014, starting with Java.
 
-- Currently, I'm expanding my skills in mobile app development with Flutter.
 
 Connect with me:
 <p align="left">
