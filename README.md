@@ -4,8 +4,6 @@
 <p align="center"> <a href="https://twitter.com/_21fl" target="blank"><img src="https://img.shields.io/twitter/follow/_21fl?logo=twitter&style=for-the-badge"/></a> </p>
 
 
-- I've been programming since 2014, starting with Java.
-
 
 Connect with me:
 <p align="left">
