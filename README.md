@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iFaisal1&label=Profile%20views&color=737cbb&style=flat-square" alt="ifaisal1" /> </p>
-# Hi there, I'm Faisal! 👋
+
+## Hi there, I'm Faisal! 👋
 
 I'm a developer who enjoys exploring all kinds of technologies and building creative solutions. Since 2016, I've been on a journey with code, working with everything from scripting and backend development.
 
@@ -12,7 +13,7 @@ I'm a developer who enjoys exploring all kinds of technologies and building crea
 - **SQL** & **MongoDB**
 - **JSON**
 - **Linux**
-- ** Game Development ** 
+- **Game Development** 
 - Web frameworks **Next.js**
 
 ---
