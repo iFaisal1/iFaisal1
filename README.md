@@ -18,20 +18,10 @@ I'm a developer who enjoys exploring all kinds of technologies and building crea
 
 ---
 
-###  Featured Project
-
-#### <img src="https://planebot.xyz/_next/image?url=%2FPlaneBot.jpg&w=48&q=75" width="30" alt="PlaneBot Logo" align="center" />  [PlaneBot](https://planebot.xyz)
-Customizable bot with personalized welcome images, comprehensive logging, social commands, moderation tools, self-assignable roles, social media alerts, and robust server protection.
-- [Invite Bot](https://discord.com/oauth2/authorize?client_id=1363159489208914184&permissions=8&scope=bot)
-
-- [ Support Discord](https://discord.gg/planebot) 
----
-
 ### 💬 Let’s Connect!
 
 - X: [@_21FL](https://x.com/_21FL)
-- Linkedin: [Faisal Al-Mutairi](https://www.linkedin.com/in/faisal-al-mutairi-a56890250)
-- Discord: [PlaneBot](https://discord.gg/planebot)
+- Linkedin: [Faisal Al-Mutairi](https://www.linkedin.com/in/faisalal-mutairi/)
 
 ---
 
@@ -48,7 +38,14 @@ Customizable bot with personalized welcome images, comprehensive logging, social
 
 ### 📈 GitHub Stats
 
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaisal1&show_icons=true&theme=radical)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaisal1&show_icons=true&theme=default)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iFaisal1&layout=compact&theme=default)
+
+<!-- GitHub Streak Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iFaisal1&theme=default)
 
  
 
