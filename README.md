@@ -39,7 +39,7 @@ I'm a developer who enjoys exploring all kinds of technologies and building crea
 ### 📈 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaisal1&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaisal1)
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iFaisal1&layout=compact&theme=default)
