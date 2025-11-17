@@ -21,7 +21,7 @@ I'm a developer who enjoys exploring all kinds of technologies and building crea
 ### 💬 Let’s Connect!
 
 - X: [@_21FL](https://x.com/_21FL)
-- Linkedin: [Faisal Al-Mutairi](https://www.linkedin.com/in/faisalal-mutairi/)
+- Linkedin: [Faisal Al-Mutairi](https://www.linkedin.com/in/ifaisal-swe/)
 
 ---
 
